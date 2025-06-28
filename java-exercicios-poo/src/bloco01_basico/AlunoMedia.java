@@ -20,7 +20,6 @@ public class AlunoMedia {
         a.nome = "Hebert Aragão";
         a.nota1 = 8.0;
         a.nota2 = 6.5;
-        a.verificarAprovacao
-    }
-
+        a.verificarAprovacao();
+        }
 }
